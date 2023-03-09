@@ -15,13 +15,17 @@ I use this project to keep myself updated in the programming languages I use the
 
 | Language | Version | Test coverage |
 |-|-|-|
-| Crystal | | |
-| Dotnet C# | | |
-| Elixir | | |
-| Node | | |
-| Ruby | | |
-| Python | | |
-| Rust | | |
+| [Crystal](https://github.com/tanjarinne/echo-crystal) | | |
+| [Dotnet C#](https://github.com/tanjarinne/echo-dotnet) | | |
+| [Elixir](https://github.com/tanjarinne/echo-elixir) | | |
+| [Node](https://github.com/tanjarinne/echo-node) | | |
+| [Ruby](https://github.com/tanjarinne/echo-ruby) | | |
+| [Python](https://github.com/tanjarinne/echo-python) | | |
+| [Rust](https://github.com/tanjarinne/echo-rust) | | |
+
+### Ecosystem
+
+- [`repo`](https://github.com/tanjarinne/echo-repo)
 
 ### Configuration
 
